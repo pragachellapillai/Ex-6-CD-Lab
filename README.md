@@ -48,13 +48,13 @@ return 0;
 ```
 
 K.txt:
-
+```
 X=a-b 
 Y=a-c 
 Z=a+b 
 C=a-b 
 C=a-b
-
+```
 # OUTPUT:
 
 ![Screenshot 2024-11-13 182122](https://github.com/user-attachments/assets/bff3eba5-47e0-4340-bf2e-fcaa281682f2)
